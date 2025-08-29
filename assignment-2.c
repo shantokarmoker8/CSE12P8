@@ -1,3 +1,8 @@
+/*
+Assignment-2
+Implement Branching The IF statement, Branching SWITCH statement
+*/
+
 #include <stdio.h>
 int main() {
     int num, day;
