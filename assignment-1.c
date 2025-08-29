@@ -1,3 +1,10 @@
+/*
+Assignment-1
+
+Finding area of a rectangle and circle
+and doing addition, subtraction, multiplication and division of two numbers.
+*/
+
 #include <stdio.h>
 #define PI 3.1416
 
